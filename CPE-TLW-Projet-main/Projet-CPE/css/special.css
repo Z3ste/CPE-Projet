@@ -1,0 +1,50 @@
+/*################################## 
+  Quelques elements de style
+        supplemenataires
+##################################*/
+
+/* style sur du text */
+.underline--bacon {
+    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/78779/bacon.svg");
+    background-position: 0 1.06em;
+    background-size: 28px 9px;
+
+}
+.underline {
+    font-size: 30px;
+    font-weight: 600;
+    color: #e0b7b7;
+    background-repeat: repeat-x;
+}
+.effetneon {
+
+    color: #fff;
+    text-shadow:
+        0 0 7px #fff,
+        0 0 10px #fff,
+        0 0 42px rgb(230, 18, 124),
+        0 0 77px rgb(230, 18, 124),
+        0 0 100px rgb(230, 18, 124);
+    animation: lumiere 1s infinite linear;
+}
+
+/* couleurs */
+.bg-dark-blue {
+    color: white;
+    background-color: #0d0921;
+}
+.bg-dark-red {
+    background-color: #9c2b38;
+}
+
+.bg-dark-orange {
+    background-color: #feeee5;
+}
+
+.color-dark-grey {
+    color: #5a5a5a;
+}
+.background-color-light-grey {
+    background-color: #e7e7e7;
+}
+

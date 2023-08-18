@@ -1,0 +1,94 @@
+/*################################## 
+  Ajout de design pour de nouveaux
+    elements
+##################################*/
+
+/* nouveaux elements */
+.link-button {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 25px;
+    padding-left: 25px;
+    background-color: #9c2b38;
+    color: white;
+}
+.link-button:hover {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-right: 27px;
+    padding-left: 27px;
+    background-color: #9c2b38;
+    color: white;
+}
+
+.paragraphe {
+    width: 70vw;
+    font-size: 20px;
+    line-break: auto;
+}
+
+.mini-button {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 25px;
+    padding-left: 25px;
+    background-color: #9c2b38;
+    border-radius: 20px;
+    color: white;
+}
+
+.badge-green {
+    background-color:green;
+    border-radius:20px;
+    padding: 5px; 
+    color: white; 
+    font-size: 10px;
+}
+.badge-yellow {
+    background-color:yellow;
+    border-radius:20px;
+    padding: 5px; 
+    color: white; 
+    font-size: 10px;
+}
+.badge-red {
+    background-color:red;
+    border-radius:20px;
+    padding: 5px; 
+    color: white; 
+    font-size: 10px;
+}
+
+.icone {
+    padding-right: 15px;
+    width: 30px;
+    height: 30px;
+}
+
+/* Image */
+
+.bordure-img {
+    border: solid #9c2b38 10px;
+}
+.center-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.right-img {
+    display: block;
+    margin-left: auto;
+    margin-right: 3vw;
+}
+.big-image {
+    width: 35vw;
+}
+
+.medium-image {
+    /*width: 15vw;*/
+    height: 35vh;
+}
+
+.small-image {
+    width: 10vh;
+}
