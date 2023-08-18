@@ -11,7 +11,7 @@
 > - ✨Magic ✨
 
 
-![This is an image](https://github.com/Z3ste/CPE-TLW-Projet/raw/main/screen_1.png)
+![This is an image](screen_1.png)
 
 ## Languages
 Les languages utilisés sont les suivants:
