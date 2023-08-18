@@ -8,7 +8,7 @@
 
 Explorez l'espace, détruisez les vaisseaux aliens et sauvez la galaxie !
 
-![The San Juan Mountains are beautiful!](/image/Screenshot_2.png)
+![The San Juan Mountains are beautiful!](image/Screenshot_2.png)
 
 ## Les fonctionnalitées
 
