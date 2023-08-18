@@ -1,0 +1,68 @@
+/*################################## 
+  Tout ce qui gere le style 
+        du body/header
+##################################*/
+
+/* General */
+body, html {
+    height: 100%;
+    margin: 0;
+    font-family: 'Source Sans Pro', sans-serif;
+    background-color: #feeee5;
+    
+}
+
+/* header */
+header {
+    height: 320px;
+    background-color: #9c2b38;
+    background-image: url("../img/bg.png");
+    background-size: 100vw ;
+    animation: slide 30s linear infinite;
+}
+
+header .title {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+header h1 {
+    text-align: center;
+    color: white;
+    font-family: fantasy;
+    font-size: 100px;
+}
+
+header h2 {
+    text-align: center;
+    color: #dedede;
+    font-family: fantasy;
+    font-size: 20px;
+}
+
+header .line {
+    height: 20px;
+    background-color: #0d0921;
+    margin-bottom: 0;
+}
+
+/* Content */
+.content {
+    margin-top: 79px;
+}
+
+.content q {
+    font-size: 30px;
+}
+
+
+/* Footer */
+
+footer {
+    margin-top: 50px;
+    background-color: black;
+    height: 300px;
+}
+
+

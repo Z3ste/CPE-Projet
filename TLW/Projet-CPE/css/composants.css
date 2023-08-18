@@ -1,0 +1,114 @@
+/*################################## 
+  Nouveau design pour les elements
+    de base de html
+##################################*/
+
+
+a {
+    color: #000;
+    text-decoration: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 25px;
+    padding-left: 25px;
+    background-color: #23b2ee;
+    color: white;
+}
+button:hover {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-right: 27px;
+    padding-left: 27px;
+    background-color: #9c2b38;
+    color: white;
+}
+
+/* Form */
+input[type=text] {
+    margin-top: 10px;
+    border: none;
+    border-radius: 20px;
+    width:40vw;
+    height: 4vh;
+    border: solid #eeb1b1 1px;
+}
+input[type=date] {
+    margin-top: 10px;
+    border: none;
+    border-radius: 20px;
+    width:40vw;
+    height: 4vh;
+    border: solid #eeb1b1 1px;
+}
+input[type=tel] {
+    margin-top: 10px;
+    border: none;
+    border-radius: 20px;
+    width:40vw;
+    height: 4vh;
+    border: solid #eeb1b1 1px;
+}
+input[type=email] {
+    margin-top: 10px;
+    border: none;
+    border-radius: 20px;
+    width:40vw;
+    height: 4vh;
+    border: solid #eeb1b1 1px;
+}
+input[type='radio']:after {
+    width: 15px;
+    height: 15px;
+    border-radius: 15px;
+    top: -2px;
+    left: -1px;
+    position: relative;
+    background-color: #d1d3d1;
+    content: '';
+    display: inline-block;
+    visibility: visible;
+    border: 2px solid black;
+}
+
+input[type='radio']:checked:after {
+
+    background-color: #9c2b38;
+    content: '';
+    display: inline-block;
+    visibility: visible;
+    border: 2px solid black;
+}
+input[type=reset] {
+    border: none;
+}
+select {
+
+    appearance: none;
+    background-color: red;
+    border: none;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-right: 25px;
+    padding-left: 25px;
+    margin: 0;
+  }
+textarea {
+    margin-top: 10px;
+    resize: none;
+    border: none;
+    border-radius: 20px;
+    width:40vw;
+    height: 30vh;
+    border: solid #eeb1b1 1px;    
+}
+input[type=text]:hover{
+    border: solid #9c2b38 1px; 
+}

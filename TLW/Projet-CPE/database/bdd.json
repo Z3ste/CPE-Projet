@@ -1,0 +1,83 @@
+{
+    "article-list": 
+    [
+        {
+            "id": 0,
+            "nom": "Funbox antique",
+            "description": "Du fun provenant tout droit de l'ancien temps",
+            "prix": 30,
+            "poids": "25kg",
+            "quantité": 5,
+            "provenance":"Grèce antique",
+            "img": "img/funbox_antique.png",
+            "calque1":"img/Funbox/Calque1/sam.png"
+
+        },
+        {
+            "id": 1,
+            "nom": "Funbox de Sam",
+            "description": "L'oncle sam lui même nous a donné un peu de son fun",
+            "prix": 30,
+            "poids": "30kg",
+            "quantité": 5,
+            "provenance":"USA",
+            "img": "img/funbox_sam.png",
+            "calque1":"img/Funbox/Calque1/sam.png"
+
+        },
+        {
+            "id": 2,
+            "nom": "Funbox spatiale",
+            "description": "Fun d'origine extraterrestre",
+            "prix": 40,
+            "poids": "25kg",
+            "quantité": 5,
+            "provenance":"Lune",
+            "img": "img/funbox_spatiale.png",
+            "calque1":"img/Funbox/Calque1/spatiale.png"
+        },
+        {
+            "id": 3,
+            "nom": "Funbox noel",
+            "description": "La funbox a offrir pour un noel réussi",
+            "prix": 40,
+            "poids": "30kg",
+            "quantité": 5,
+            "provenance":"Pole nord",
+            "img": "img/funbox_noel.png",
+            "calque1":"img/Funbox/Calque1/noel.png"
+        },
+        {
+            "id": 4,
+            "nom": "Funbox picsou",
+            "description": "Notre funbox la plus luxueuse",
+            "prix": 40,
+            "poids": "25kg",
+            "quantité": 5,
+            "provenance":"USA",
+            "img": "img/funbox_picsou.png",
+            "calque1":"img/Funbox/Calque1/picsou.png"
+        },
+        {
+            "id": 5,
+            "nom": "Funbox pirate",
+            "description": "La funbox des brigands des mers",
+            "prix": 30,
+            "poids": "30kg",
+            "quantité": 5,
+            "provenance":"Caraibes",
+            "img": "img/funbox_pirate.png",
+            "calque1":"img/Funbox/Calque1/pirate.png"
+        }
+
+    ],
+    "couleur-list":
+        {
+            "red":"img/Funbox/Calque0/rouge.png",
+            "green":"img/Funbox/Calque0/vert.png",
+            "yellow":"img/Funbox/Calque0/jaune.png",
+            "cyan":"img/Funbox/Calque0/cyan.png",
+            "blue":"img/Funbox/Calque0/bleu.png"
+
+        }
+}
